@@ -39,6 +39,20 @@ Building resilient Flutter, native Android/iOS, and full-stack web systems for h
 
 ---
 
+### Featured Open-Source Repositories
+
+| Repository | Stack | Architecture & Scope |
+| :--- | :--- | :--- |
+| **[pocket-transcribe](https://github.com/muhvarriel/pocket-transcribe)** | `React Native` · `Expo` · `TypeScript` | Full-stack AI meeting transcription and summarization pipeline with background audio engine and persistent state synchronization. |
+| **[nook-player](https://github.com/muhvarriel/nook-player)** | `Swift` · `SwiftUI` · `macOS` | Native macOS notch media controller utilizing `NSPanel` windowing and Apple Events Inter-Process Communication (IPC). |
+| **[neural-particles](https://github.com/muhvarriel/neural-particles)** | `Next.js 16` · `Three.js` · `MediaPipe` | Real-time 3D interactive particle engine driven by webcam hand-gesture tracking ([Live Demo](https://neural-particles.vercel.app)). |
+| **[macmop-cli](https://github.com/muhvarriel/macmop-cli)** | `CLI` · `macOS Systems` | Safety-first macOS cleanup utility featuring dry-run defaults, transactional `.Trash` rollback engine, and strict path allowlisting. |
+| **[kulu-sitemap-navigator](https://github.com/muhvarriel/kulu-sitemap-navigator)** | `TypeScript` · `Playwright` · `BFS` | Automated web state graph crawler and shortest-path navigation executor using Breadth-First Search (BFS). |
+| **[music-app](https://github.com/muhvarriel/music-app)** | `Flutter` · `Dart` · `Spotify API` | Cross-platform Flutter music discovery client with debounced real-time search, audio preview streaming, and persistent mini-player. |
+| **[vex-hero-section](https://github.com/muhvarriel/vex-hero-section)** | `TypeScript` · `React` · `Shaders` | Interactive web hero architecture featuring liquid-glass shader surfaces, video compositing, and animated typography. |
+
+---
+
 ### Experience
 
 - **Senior Mobile Engineer** — **Rolling Glory** *(Aug 2024 — Present)*  
