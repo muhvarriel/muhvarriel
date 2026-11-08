@@ -7,7 +7,7 @@ Building resilient Flutter, native Android/iOS, and full-stack web systems for h
 - **Private 1-on-1 Mentorship**: [varrielnizar.my.id/kelas-private](https://www.varrielnizar.my.id/kelas-private)
 - **Technical Writing**: [medium.com/@muhvarriel](https://medium.com/@muhvarriel)
 - **LinkedIn**: [linkedin.com/in/varrielnizar](https://linkedin.com/in/varrielnizar)
-- **Contact**: [varrielnzr@gmail.com](mailto:varrielnzr@gmail.com)
+- **Contact**: [muhvarriel@gmail.com](mailto:muhvarriel@gmail.com)
 
 ---
 
